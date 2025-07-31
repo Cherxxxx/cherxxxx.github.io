@@ -1,30 +1,73 @@
 ## Hi there 👋
-# 👋 你好，我是 Chen Meijun！
+# 👋 About Me
 
-🎓 北海道大学研究生｜🌏 国际交流｜📊 关注数据、AI与社会变迁
-
-## 🚀 技能栈
-
-- **语言**：Python｜JavaScript｜HTML/CSS｜SQL
-- **框架/工具**：React｜Node.js｜Flask｜Docker｜Pandas｜Jupyter
-- **语言能力**：中文（母语）｜日语（商务）｜英语（TOEFL 90+）
-
-## 🔧 正在进行的项目
-
-- 📌 [Fake News Detector](https://github.com/yourname/fakenews-detector)：基于BERT的中英双语虚假新闻判定
-- 🌍 [Niseko Tourism Study](https://github.com/yourname/niseko-tourism)：北海道ニセコ観光協会に関する社会調査
-- 🛠️ [AI + Qualitative Research](https://github.com/yourname/ai-qual-research)：AI在質的研究中的可能性分析
-
-## 📫 联系我
-
-- 📧 chenmeijun@example.com  
-- 🌐 [个人网站](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+Hello! I’m a graduate student at **Hokkaido University**, originally from **China**.  
+With a diverse background and a passion for interdisciplinary inquiry, I’m currently exploring the intersection of **urban planning**, **architectural environments**, and **artificial intelligence**.  
+I’m also deeply interested in **gender issues**, **fake news**, and **fact-checking systems** in media studies.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&
+## 🔬 Research Interests
+
+- Urban Planning and Design  
+- Built Environment and AI Applications  
+- Gender and Media Representation  
+- Fake News and Political Communication  
+- Fact-Checking Mechanisms and Journalism
+
+---
+
+## 🛠️ Skills
+
+**🏀 Sports**  
+- Swimming  
+- Tennis  
+- Volleyball  
+
+**🎵 Music**  
+- Rap  
+- Piano  
+
+**🌏 Languages**  
+- Mandarin Chinese (native)  
+- Japanese (advanced)  
+- English (fluent)
+
+---
+
+## ✨ Hobbies
+
+- Watching Movies  
+- Anime & Manga  
+- Food Exploration  
+- Traveling  
+- Fashion & Aesthetics
+
+---
+
+## 📸 Travel & Food Gallery
+
+### 🏞 Yamdrok Lake, Tibet
+
+One of the three holy lakes in Tibet — a place of breathtaking beauty and serenity.
+
+![Yamdrok Lake](assets/images/yamdrok.jpg)
+
+---
+
+### 🍛 My Favorite Curry Spot in Sapporo
+
+**Location:**  
+〒060-0061 Hokkaido, Sapporo, Chuo Ward, Minami 1 Jonishi, 2 Chome 南一条Ｋビル B1F
+
+![Soup Curry in Sapporo](assets/images/curry.jpg)
+
+---
+
+## 🎨 Jekyll Theme Ideas
+
+Looking to beautify this page? Check out this curated [List of Jekyll Themes on GitHub](https://github.com/topics/jekyll-theme) for inspiration!
+
 <!--
 **Cherxxxx/Cherxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
