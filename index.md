@@ -73,6 +73,3 @@ One of the three holy lakes in Tibet — a place of breathtaking beauty and sere
 
 ---
 
-## 🎨 Jekyll Theme Ideas
-
-Looking to beautify this page? Check out this curated [List of Jekyll Themes on GitHub](https://github.com/topics/jekyll-theme) for inspiration!
