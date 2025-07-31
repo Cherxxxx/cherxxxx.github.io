@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there! 👋I am CHEN MEIJUN.
 # 👋 About Me
 
-Hello! I’m a graduate student at **Hokkaido University**, originally from **China**.  
+ I’m a graduate student at **Hokkaido University**, originally from **China**.  
 With a diverse background and a passion for interdisciplinary inquiry, I’m currently exploring the intersection of **urban planning**, **architectural environments**, and **artificial intelligence**.  
 I’m also deeply interested in **gender issues**, **fake news**, and **fact-checking systems** in media studies.
 
