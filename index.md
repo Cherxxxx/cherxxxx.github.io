@@ -3,10 +3,54 @@ layout: default
 title: Home
 ---
 
+---
+layout: default
+title: Home
+---
+
 # 👋 About Me
 
 Hello! I’m a graduate student at **Hokkaido University**, originally from **China**.  
-I’m passionate about **urban planning**, **AI in architecture**, **gender and media**, **fake news**, and **fact-checking**.
+With a diverse background and a passion for interdisciplinary inquiry, I’m currently exploring the intersection of **urban planning**, **architectural environments**, and **artificial intelligence**.  
+I’m also deeply interested in **gender issues**, **fake news**, and **fact-checking systems** in media studies.
+
+---
+
+## 🔬 Research Interests
+
+- Urban Planning and Design  
+- Built Environment and AI Applications  
+- Gender and Media Representation  
+- Fake News and Political Communication  
+- Fact-Checking Mechanisms and Journalism
+
+---
+
+## 🛠️ Skills
+
+**🏀 Sports**  
+- Swimming  
+- Tennis  
+- Volleyball  
+
+**🎵 Music**  
+- Rap  
+- Piano  
+
+**🌏 Languages**  
+- Mandarin Chinese (native)  
+- Japanese (advanced)  
+- English (fluent)
+
+---
+
+## ✨ Hobbies
+
+- Watching Movies  
+- Anime & Manga  
+- Food Exploration  
+- Traveling  
+- Fashion & Aesthetics
 
 ---
 
@@ -26,3 +70,9 @@ One of the three holy lakes in Tibet — a place of breathtaking beauty and sere
 〒060-0061 Hokkaido, Sapporo, Chuo Ward, Minami 1 Jonishi, 2 Chome 南一条Ｋビル B1F
 
 ![Soup Curry in Sapporo](assets/images/curry.jpg)
+
+---
+
+## 🎨 Jekyll Theme Ideas
+
+Looking to beautify this page? Check out this curated [List of Jekyll Themes on GitHub](https://github.com/topics/jekyll-theme) for inspiration!
