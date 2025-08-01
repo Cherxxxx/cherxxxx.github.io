@@ -29,9 +29,9 @@ I’m also deeply interested in **gender issues**, **fake news**, and **fact-che
 - Piano  
 
 **🌏 Languages**  
-- Mandarin Chinese (native)  
-- Japanese (advanced)  
-- English (fluent)
+- Mandarin Chinese
+- Japanese
+- English
 
 ---
 
